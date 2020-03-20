@@ -46,17 +46,17 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
-//    override fun onBackPressed() {
-//
-//        val manager = supportFragmentManager.findFragmentById(R.id.layout)
-//        if (manager is fragment_recycler_view ) {
-//
-//            finish()
-//
-//        }
-//        else{
-//            super.onBackPressed()
-//        }
-//
-//    }
+    override fun onBackPressed() {
+
+        val manager = supportFragmentManager.findFragmentById(R.id.layout)
+        if (manager is  todo_main ) {
+
+            finish()
+
+        }
+        else{
+            super.onBackPressed()
+        }
+
+    }
 }
