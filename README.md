@@ -11,6 +11,7 @@
 4.realtime database (insert,show)
 5.Dialog (alert input)
 6.Layout (Relative, LinearLayout)
+7.FloatingActionButton
 
 1. login page by facebook authen 
 
