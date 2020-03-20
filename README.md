@@ -10,7 +10,7 @@
 3.facebook authen 
 4.realtime database (insert,show)
 5.Dialog (alert input)
-6.Layout (Relative, LiLinearLayout)
+6.Layout (Relative, LinearLayout)
 
 1. login page by facebook authen 
 
