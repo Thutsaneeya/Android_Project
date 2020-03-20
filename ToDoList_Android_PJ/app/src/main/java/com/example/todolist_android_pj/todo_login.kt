@@ -8,6 +8,9 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
+import android.widget.ImageView
+import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.FragmentTransaction
 import com.facebook.*
@@ -46,8 +49,6 @@ class todo_login : Fragment() {
     }
 
     private fun handleFacebookAccessToken(token : AccessToken) {
-
-
         Log.d(TAG, "handleFacebookAccessToken:" + token)
         val credential = FacebookAuthProvider.getCredential(token.token)
         firebaseAuth!!.signInWithCredential(credential).addOnCompleteListener { task ->
@@ -74,6 +75,7 @@ class todo_login : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
 
         val view = inflater.inflate(R.layout.fragment_todo_login, container, false)
+
         callbackManager = CallbackManager.Factory.create()
         facebookSignInButton  = view.findViewById(R.id.login_button) as LoginButton
         firebaseAuth = FirebaseAuth.getInstance()

@@ -38,7 +38,7 @@ class todo_profile : Fragment() {
 
         val ivProfilePicture = view.findViewById(R.id.iv_profile) as ImageView
         val tvName = view.findViewById(R.id.tv_name) as TextView
-//        val login_button2 = view.findViewById(R.id.login_button2) as Button
+        val login_button2 = view.findViewById(R.id.login_button2) as Button
         val button : Button = view.findViewById(R.id.lets_go) as Button
 
 //start load img fb
@@ -50,11 +50,11 @@ class todo_profile : Fragment() {
         tvName.setText(Name) //set name from fb
 
 //start log out fb
-//        login_button2.setOnClickListener{
-//
-//            LoginManager.getInstance().logOut()
-//            activity!!.supportFragmentManager.popBackStack()
-//        }
+        login_button2.setOnClickListener{
+
+            LoginManager.getInstance().logOut()
+            activity!!.supportFragmentManager.popBackStack()
+        }
 //      end  log out fb
 //         Inflate the layout for this fragment
 

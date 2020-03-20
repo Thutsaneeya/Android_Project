@@ -59,7 +59,7 @@ class todo_main : Fragment() {
 
                   val list = JSONArray()
 
-                  val listView = view.findViewById<ListView>(R.id.listView)
+                  val listView = view.findViewById(R.id.listView) as ListView
 
                   for (ds in dataSnapshot.children) {
 
@@ -101,16 +101,6 @@ class todo_main : Fragment() {
         //        end recy button to recycler view
         return view
   }
-
-    class ToDoItem {
-        companion object Factory {
-            fun create(): ToDoItem = ToDoItem()
-        }
-        var objectId: String? = null
-        var itemText: String? = null
-        var done: Boolean? = false
-    }
-
 //    start data class
 
     data class FriendlyMessage(
@@ -129,7 +119,6 @@ class todo_main : Fragment() {
         alert.setView(itemEditText)
         alert.setPositiveButton("SUBMIT") { dialog, positiveButton ->
 
-            val todoItem = ToDoItem.create()
             val item = itemEditText.text.toString()
 
             //start send value to database realtime**********************************************
