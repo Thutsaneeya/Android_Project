@@ -18,7 +18,7 @@
 
 2. Profile page
 
-![alt text](https://sv1.picz.in.th/images/2020/03/21/QQ4pDI.th.jpg)
+![alt text](https://sv1.picz.in.th/images/2020/03/21/QQ4pDI.md.jpg)
 
 3. Add Note page 
 
