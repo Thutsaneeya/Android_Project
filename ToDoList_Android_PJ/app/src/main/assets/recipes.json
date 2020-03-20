@@ -1,0 +1,95 @@
+{
+  "recipes": [
+    {
+      "title": "XIUMIN",
+      "image" : "https://f.ptcdn.info/315/061/000/pjfb3v2nj84NoyWlL3G-o.jpg",
+      "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA(Chinese Ver) \n    활동그룹 : EXO , EXO-CBX\n",
+      "servings": 4,
+      "dietLabel": "Low-Carb",
+      "ingredientLines" : [ "4 baby chickens (poussins) or cornish hens (about 1 1/4 pounds each), or 4 chicken breast halves", "3 lemons, plus wedges for garnish", "4 cloves garlic, peeled and smashed", "1 tablespoon crushed red-pepper flakes, or to taste", "1 tablespoon finely chopped fresh thyme", "1 tablespoon finely chopped fresh rosemary", "1/2 cup olive oil", "Salt, to taste" ]
+    },
+
+    {
+      "title": "SUHO",
+      "image" : "https://pbs.twimg.com/media/DuSatgPUUAYNFr-.jpg",
+      "url": "http://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA\n    활동그룹 : EXO\n",
+      "servings": 4,
+      "dietLabel": "Balanced",
+      "ingredientLines" : [ "2 or 3 links of chineses sausage, cut into 1/4 inch slices", "4 cloves garlic, minced", "4 cups cold cooked rice", "2 tablespoons light soy sauce", "1/2 teaspoon salt", "1/4 teaspoon sugar", "1/4 teaspoon white pepper", "To garnish:", "Finely chopped green onion or cilantro" ]
+    },
+
+    {
+      "title": "LAY",
+      "image" : "https://wx4.sinaimg.cn/mw690/0065PqZvly1gag5tbq3cnj32r344nhdv.jpg",
+      "url": "http://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA(Chinese Ver)\n    활동그룹 : EXO , S.M. The Performance\n",
+      "servings": 4,
+      "dietLabel": "Low-Carb",
+      "ingredientLines" : [ "40 chicken wing pieces, or 20 whole chicken wings", "2 tablespoons chinese five-spice powder", "1 tablespoon cayenne pepper", "Kosher salt and freshly ground black pepper", "1/3 to 1/2 cup chopped fresh cilantro leaves", "1/4 cup light or regular sour cream", "1/4 cup mayonnaise", "1/4 cup plain yogurt", "Juice 1/2 lemon (or why not try lime?)" ]
+    },
+
+    {
+      "title": "BAEKHYUN",
+      "image" : "https://i.pinimg.com/originals/d1/6c/33/d16c33d1ef9cd116c87e8d0d658b125f.jpg",
+      "url": "http://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA\n    활동그룹 : EXO , EXO-CBX , SuperM\n",
+      "servings": 4,
+      "dietLabel": "Medium-Carb",
+      "ingredientLines" : [ "1.0 tbsp clear honey", "1.0 tbsp vinegar (you can use cider, malt or wine)", "100.0ml hoisin sauce", "2.0 tbsp soy sauce", "12 meaty pork ribs", "1.0 tsp chinese five-spice powder" ]
+    },
+
+    {
+      "title": "CHEN",
+      "image" : "https://i.pinimg.com/originals/4c/3b/fa/4c3bfa05d0d0ee71a58684b8465c4c98.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA(Chinese Ver)\n    활동그룹 : S.M. The Ballad , EXO , EXO-CBX\n",
+      "servings": 4,
+      "dietLabel": "Low-Fat",
+      "ingredientLines" : [ "6 to 8 fresh long rice cake sticks, or 20 smaller rice cake sticks", "For the sauce:", "3 tablespoons korean chili pepper paste", "3 to 4 tablespoons light soy sauce, depending on saltiness", "1 teaspoon sugar", "1 teaspoon rice vinegar", "Roasted sesame seeds to garnish" ]
+
+    },
+
+    {
+      "title": "CHANYEOL",
+      "image" : "https://i.pinimg.com/originals/24/19/cd/2419cdc3e8312112499b3d99c0df7548.jpg",
+      "url": "http://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA\n    활동그룹 : EXO , EXO-SC\n",
+      "servings": 12,
+      "dietLabel": "Vegetarian",
+      "ingredientLines" : [ "1 can (21 oz.) cherry pie filling", "1 can (15 oz.) crushed pineapple", "1 box (about 18 oz.) yellow or white cake mix", "1 stick margarine", "½ sticks butter", "Whipped cream" ]
+    },
+
+    {
+      "title": "D.O",
+      "image" : "https://channel-korea.com/wp-content/uploads/2019/04/7ef7c867445a4f5f45ab45e5e7a07608.jpg",
+      "url": "http://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA\n    활동그룹 : EXO\n",
+      "servings": 42,
+      "dietLabel": "Low-Sodium",
+      "ingredientLines" : [ "2 1/2 cups self-rising white lily or cake flour", "2 sticks (1 cup) unsalted butter, softened", "1 1/2 cups sugar", "1 large egg, lightly beaten", "1 teaspoon vanilla" ]
+    },
+
+    {
+      "title": "KAI",
+      "image" : "https://www.allkpop.com/upload/2018/12/content/061005/screen-shot-2018-12-06-at-100457-ampng.jpg",
+      "url": "http://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA\n    활동그룹 : EXO , Younique Unit ,\n    S.M. The Performance , SuperM\n",
+      "servings": 10,
+      "dietLabel": "Low-Carb",
+      "ingredientLines" : [ "200-250 g pretzels", "150 ml hot milk", "1 tbsp butter", "30 g bacon, finely chopped", "1 x onion, finely chopped", "2 x eggs", "Fresh parsley, chopped", "Salt", "Freshly ground black pepp", "Nutmeg", "1 tbsp butter for creamed chanterelle mushroom sauce", "1-2 x shallots", "250 g chanterelle mushrooms", "100-200 ml vegetable broth", "100 ml heavy cream", "2 tbsp sherry", "Salt and freshly ground black pepp", "Fresh chives, chopped for decoration" ]
+    },
+
+    {
+      "title": "SEHUN",
+      "image" : "https://i.pinimg.com/originals/00/42/25/004225a590b91f420d788316781d2a45.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
+      "description": "\n    첫 방송일 : 2012-04-08\n    데뷔앨범(작품) : MAMA\n    활동그룹 : EXO , EXO-SC\n",
+      "servings": 6,
+      "dietLabel": "Vegetarian",
+      "ingredientLines" :[ "1 cup cream or half and half", "2 tablespoons butter", "2 tablespoons instant vanilla pudding mix", "1 bag (11 ounces) candy corn" ]
+    }
+
+  ]
+}
