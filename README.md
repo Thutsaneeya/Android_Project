@@ -7,12 +7,10 @@
 
 1.Fragment 
 2.Recycler View
-3.List View
-4.facebook authen 
-5.realtime database (insert,show)
-6.Dialog (alert input)
-7.Layout (Relative, LiLinearLayout)
-8.Floatingactionbutton
+3.facebook authen 
+4.realtime database (insert,show)
+5.Dialog (alert input)
+6.Layout (Relative, LiLinearLayout)
 
 1. login page by facebook authen 
 
