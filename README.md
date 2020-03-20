@@ -15,13 +15,22 @@
 8.Floatingactionbutton
 
 1. login page by facebook authen 
+
 ![alt text](https://sv1.picz.in.th/images/2020/03/20/QxnLdJ.md.jpg)
+
 2. Profile page
+
+![alt text](https://sv1.picz.in.th/images/2020/03/20/QxVE8v.md.jpg)
 
 3. Add Note page 
 
+![alt text](https://sv1.picz.in.th/images/2020/03/20/QxVl2V.md.jpg)
+
 4. Show Note by realtime database
+
+![alt text](https://sv1.picz.in.th/images/2020/03/20/QxVAtS.md.jpg)
 
 5. Exo View page by Recycler View
 
+![alt text](https://sv1.picz.in.th/images/2020/03/20/QxVsGg.md.jpg)
 
