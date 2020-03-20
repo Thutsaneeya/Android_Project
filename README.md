@@ -1,4 +1,5 @@
 # Android_Project
+*INTRO TO DO PROJECT APP
 Tools
 1.Fragment 
 2.Recycler View
@@ -7,3 +8,4 @@ Tools
 5.realtime database (insert,show)
 6.Dialog (alert input)
 7.Layout (Relative, LiLinearLayout)
+
