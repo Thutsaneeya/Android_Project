@@ -15,7 +15,7 @@
 8.Floatingactionbutton
 
 1. login page by facebook authen 
-![atl text](https://www.picz.in.th/image/QxnLdJ)
+![alt text](http://url/to/img.png)
 2. Profile page
 
 3. Add Note page 
