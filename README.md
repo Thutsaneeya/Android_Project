@@ -10,8 +10,7 @@
 3.facebook authen 
 4.realtime database (insert,show)
 5.Dialog (alert input)
-6.Layout (Relative, LinearLayout)
-7.FloatingActionButton
+6.FloatingActionButton
 
 1. login page by facebook authen 
 
@@ -19,7 +18,7 @@
 
 2. Profile page
 
-![alt text](https://sv1.picz.in.th/images/2020/03/20/QxVE8v.md.jpg)
+![alt text](https://sv1.picz.in.th/images/2020/03/21/QQ4pDI.md.jpg)
 
 3. Add Note page 
 
@@ -27,7 +26,7 @@
 
 4. Show Note by realtime database
 
-![alt text](https://sv1.picz.in.th/images/2020/03/20/QxVAtS.md.jpg)
+![alt text](https://sv1.picz.in.th/images/2020/03/21/QQ4vLP.md.jpg)
 
 5. Exo View page by Recycler View
 
